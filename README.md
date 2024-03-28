@@ -1,4 +1,4 @@
-# onlineofflineretailapp
+# Online/ Offline Retail Application
 Database Management Project
 
 Story Line & Scope:
